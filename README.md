@@ -12,6 +12,6 @@ Uma descrição do que cada parte do código faz:
 Essa é uma visão geral da funcionalidade do código.
 
 
-Link para o post no Medium: [Criando o Jogo da Cobrinha com Js e HTML5 em 20 minutos](https://github.com/henriquearaujooficial/pong-game)
+Link para o post no Medium: [Criando o Jogo da Cobrinha com Js e HTML5 em 20 minutos](https://github.com/henriquearaujooficial/henriquejogo-snake)
 
 ![gameScreen](./JogoCobrinha.png)
